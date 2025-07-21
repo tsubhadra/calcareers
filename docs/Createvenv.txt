@@ -1,0 +1,12 @@
+$ where python
+C:\Users\Subi\AppData\Local\Programs\Python\Python311\python.exe
+C:\Users\Subi\AppData\Local\Microsoft\WindowsApps\python.exe
+
+In File->Settings->Project:calcareers->python Interpreter->Python Inerpretere
+Add local interpreter
+Give this
+C:\Users\Subi\AppData\Local\Programs\Python\Python311\python.exe
+Check if a new .venv is cerated in the root folder
+
+Activate the virtual environment
+.venv/Scripts/activate
