@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 
-USER_ID = "tsubhadra"
-PASSWORD = "#9thMay2024"
+USER_ID = "userid"
+PASSWORD = "pwd"
 
 
 def run():
